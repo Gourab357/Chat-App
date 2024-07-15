@@ -1,5 +1,3 @@
-Here's a similar project name and description to add to your resume:
-
 **Project Name: Scalable Chat Application**  
 **Tech Stack:** Node.js, Next.js, Turbo Repo, Redis on Aiven
 
