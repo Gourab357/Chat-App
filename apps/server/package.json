@@ -4,7 +4,7 @@
     "private": "true",
     "scripts": {
         "start": "node dist/index",
-        "build": "tsp -p .",
+        "build": "tsc",
         "dev": "tsc-watch --onSuccess \"node dist/index.js\""
     },
     "devDependencies": {
